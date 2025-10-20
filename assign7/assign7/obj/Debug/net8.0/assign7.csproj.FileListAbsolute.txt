@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\assign7\assign7\bin\Debug\net8.0\assign7.exe
+C:\Users\ACER\source\repos\assign7\assign7\bin\Debug\net8.0\assign7.deps.json
+C:\Users\ACER\source\repos\assign7\assign7\bin\Debug\net8.0\assign7.runtimeconfig.json
+C:\Users\ACER\source\repos\assign7\assign7\bin\Debug\net8.0\assign7.dll
+C:\Users\ACER\source\repos\assign7\assign7\bin\Debug\net8.0\assign7.pdb
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.AssemblyInfo.cs
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.dll
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\refint\assign7.dll
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.pdb
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\assign7.genruntimeconfig.cache
+C:\Users\ACER\source\repos\assign7\assign7\obj\Debug\net8.0\ref\assign7.dll
